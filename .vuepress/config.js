@@ -5,8 +5,11 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: `/logo.png` }],
   ],
+  ga: 'UA-120216948-1',
+  serviceWorker: true,
   evergreen: true,
   themeConfig: {
+    repo: 'vuefloripa/vuefloripa.github.io/tree/development/',
     search: false,
     lastUpdated: 'Última atualização',
     nav: [

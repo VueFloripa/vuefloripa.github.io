@@ -5,14 +5,6 @@ pageClass: proxima-edicao
 
 Talks, brindes, cerveja gelada e muito networking! Participe do próximo encontro da comunidade de Vue.js de Floripa!
 
-::: tip CALL4PAPERS
-[Issue no GitHub](https://github.com/VueFloripa/Meetup/issues/5)
-:::
-
-:::warning CONFIRMAÇÃO DE PRESENÇA
-A partir do dia 04/06 no evento do Meetup.com!
-:::
-
 ## Quando?
 
 07/06 - 19:30h
@@ -33,6 +25,18 @@ A partir do dia 04/06 no evento do Meetup.com!
   <a href='https://www.codenation.com.br/'>
     <img alt='Linx+Neemu+Chaordic' src='/apoiadores/code:nation.png'>
   </a>
+
+  <a href='https://www.softplan.com.br/'>
+    <img class='wider' alt='Softplan' src='/apoiadores/softplan.png'>
+  </a>
+
+  <a href='https://www.valtech.com/'>
+    <img class='wider' alt='Valtech_' src='/apoiadores/valtech.png'>
+  </a>
+
+  <a href='https://www.stickerdevs.com.br/'>
+    <img class='wider' alt='Sticker Devs' src='/apoiadores/stickerdevs.png'>
+  </a>
 </div>
 
 <style>
@@ -41,6 +45,10 @@ A partir do dia 04/06 no evento do Meetup.com!
     margin-right: 20px;
     width: 100px;
     height: 100px;
+  }
+
+  .proxima-edicao img.wider {
+    width: 220px;
   }
 
   .proxima-edicao .apoiadores {

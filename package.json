@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Vue.js Floripa website",
   "scripts": {
-    "dev": "vuepress dev src"
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
   },
   "repository": {
     "type": "git",

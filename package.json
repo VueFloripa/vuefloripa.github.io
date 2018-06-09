@@ -1,0 +1,28 @@
+{
+  "name": "vuefloripa.github.io",
+  "version": "1.0.0",
+  "description": "Vue.js Floripa website",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VueFloripa/vuefloripa.github.io.git"
+  },
+  "keywords": [
+    "vuejs",
+    "vuepress",
+    "vuefloripa",
+    "meetup"
+  ],
+  "author": "Vinicius Kiatkoski Neves <kneves.vinicius@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VueFloripa/vuefloripa.github.io/issues"
+  },
+  "homepage": "https://github.com/VueFloripa/vuefloripa.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^0.10.1"
+  }
+}

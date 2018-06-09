@@ -6,16 +6,17 @@ module.exports = {
     ['link', { rel: 'icon', href: `/logo.png` }],
   ],
   ga: 'UA-120216948-1',
-  serviceWorker: true,
   evergreen: true,
   themeConfig: {
     repo: 'vuefloripa/vuefloripa.github.io/tree/development/',
     search: false,
     lastUpdated: 'Última atualização',
     nav: [
-      { text: 'Última edição', link: '/edicoes/3-vuefloripa' },
+      { text: 'Vue.js Summit', link: '/edicoes/#vue-js-summit' },
+      { text: 'Última edição', link: '/edicoes/4-vuefloripa' },
       { text: 'Edições anteriores', 
         items: [
+          { text: '3º VueFloripa', link: '/edicoes/3-vuefloripa' },
           { text: '2º VueFloripa', link: '/edicoes/2-vuefloripa' },
           { text: '1º VueFloripa', link: '/edicoes/1-vuefloripa' },
         ]
@@ -29,6 +30,7 @@ module.exports = {
           title: 'Edições passadas',
           children: [
             '',
+            '4-vuefloripa',
             '3-vuefloripa',
             '2-vuefloripa',
             '1-vuefloripa',

@@ -12,7 +12,7 @@ module.exports = {
     search: false,
     lastUpdated: 'Última atualização',
     nav: [
-      { text: 'Vue.js Summit', link: '/edicoes/#vue-js-summit' },
+      { text: 'Próxima edição', link: '/edicoes/#proxima-edicao' },
       { text: 'Última edição', link: '/edicoes/4-vuefloripa' },
       { text: 'Edições anteriores', 
         items: [
@@ -21,6 +21,7 @@ module.exports = {
           { text: '1º VueFloripa', link: '/edicoes/1-vuefloripa' },
         ]
       },
+      { text: 'Vue.js Summit 2018', link: '/vuejs-summit/' },
       { text: 'Sobre nós', link: '/sobre/' },
     ],
     sidebar: {
@@ -29,7 +30,6 @@ module.exports = {
           collapsable: false,
           title: 'Edições passadas',
           children: [
-            '',
             '4-vuefloripa',
             '3-vuefloripa',
             '2-vuefloripa',

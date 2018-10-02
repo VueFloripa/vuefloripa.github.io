@@ -1,15 +1,13 @@
 ---
 pageClass: proxima-edicao
 ---
-# [Próxima edição](https://www.meetup.com/pt-BR/vuefloripa/)
+# [Próxima edição](https://www.meetup.com/vuefloripa/events/254307320/)
 
-::: warning AVISO
-Ainda não temos data definida para a próxima edição!
-:::
+O quinto **VueFloripa** irá ocorrer no dia 04/10 a partir das 19:30h na [Linx Impulse](https://goo.gl/maps/ay7NZousQBk/). O evento terá apenas uma talk e o restante do tempo será dedicado para o momento "Tu Vue?" que tem como objetivo deixar o evento mais dinâmico!
 
-Nossa última edição ocorreu do dia 07 de junho de 2018 e portanto não teremos outra edição ocorrendo em breve, somente depois do [Vue.js Summit](https://vuejssummit.com/), portanto final de outubro/começo de novembro.
+A talk será dada pelo [Christian Nascimento](https://github.com/cbfn/), com o título **Desenvolvendo aplicações móveis com o NativeScript + Vue.js**.
 
-Da um confere em com foi a [última edição](/edicoes/4-vuefloripa.html) e já vai pensando na tua talk pra próxima!
+Além disso essa edição contará com um happy hour (comida e bebida) bancado pela [Linx Impulse](https://www.linx.com.br/linximpulse/) e pela [Valtech](https://www.valtech.com/).
 
 ## Comunidades
 
@@ -21,8 +19,8 @@ Da um confere em com foi a [última edição](/edicoes/4-vuefloripa.html) e já 
 ## Quem já apoiou o evento?
 
 <div class='apoiadores'>
-  <a href='https://chaordic.com.br/'>
-    <img alt='Linx+Neemu+Chaordic' src='/apoiadores/linx+neemu+chaordic.png'>
+  <a href='https://www.linx.com.br/linximpulse/'>
+    <img alt='Linx Impulse Suite' src='/apoiadores/linximpulsesuite.png'>
   </a>
 
   <a href='http://comadrecowork.com/'>
@@ -34,7 +32,7 @@ Da um confere em com foi a [última edição](/edicoes/4-vuefloripa.html) e já 
   </a>
 
   <a href='https://www.codenation.com.br/'>
-    <img alt='Linx+Neemu+Chaordic' src='/apoiadores/code:nation.png'>
+    <img alt='Code:Nation' src='/apoiadores/code:nation.png'>
   </a>
 
   <a href='https://www.softplan.com.br/'>

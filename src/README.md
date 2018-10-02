@@ -7,10 +7,6 @@ actionLink: /edicoes/
 footer: MIT Licensed | Copyright © 2018-present VueFloripa | Developed with VuePress
 ---
 
-::: warning AVISO
-Este conteúdo ainda está em desenvolvimento!
-:::
-
 <style>
   /* Remove heroText */
   .pagina-inicial h1 {

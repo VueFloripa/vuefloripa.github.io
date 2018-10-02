@@ -16,6 +16,7 @@ module.exports = {
       { text: 'Última edição', link: '/edicoes/4-vuefloripa' },
       { text: 'Edições anteriores', 
         items: [
+          { text: '4º VueFloripa', link: '/edicoes/4-vuefloripa' },
           { text: '3º VueFloripa', link: '/edicoes/3-vuefloripa' },
           { text: '2º VueFloripa', link: '/edicoes/2-vuefloripa' },
           { text: '1º VueFloripa', link: '/edicoes/1-vuefloripa' },

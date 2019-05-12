@@ -1,20 +1,18 @@
 ---
 pageClass: proxima-edicao
 ---
-# [Próxima edição](https://www.meetup.com/vuefloripa/events/254307320/)
+# [Próxima edição](https://www.meetup.com/vuefloripa/events/260940270/)
 
-O quinto **VueFloripa** irá ocorrer no dia 04/10 a partir das 19:30h na [Linx Impulse](https://goo.gl/maps/ay7NZousQBk/). O evento terá apenas uma talk e o restante do tempo será dedicado para o momento "Tu Vue?" que tem como objetivo deixar o evento mais dinâmico!
+O sexto **VueFloripa** irá ocorrer no dia 25/05 a partir das 14:00h na [Valtech](https://goo.gl/maps/WU6BvFfJGqNdo2Lz6). O evento será dividido entre talk, momento "Tu Vue?" e Tainha Bowl, tudo com o objectido de deixar o encontro mais dinâmico.
 
-A talk será dada pelo [Christian Nascimento](https://github.com/cbfn/), com o título **Desenvolvendo aplicações móveis com o NativeScript + Vue.js**.
-
-Além disso essa edição contará com um happy hour (comida e bebida) bancado pela [Linx Impulse](https://www.linx.com.br/linximpulse/) e pela [Valtech](https://www.valtech.com/).
+As talks ainda não estão definidas e podem ser submetidas aqui: https://github.com/VueFloripa/Meetup/issues/8
 
 ## Comunidades
 
 - [Meetup.com](https://www.meetup.com/pt-BR/vuefloripa)
-- [Slack](https://join.slack.com/t/vuefloripa/shared_invite/enQtMjQyNjYwNDEyMTk4LTY1ZDVmMTg2ZmZiNzM4Mjk3YjhhNjlmYWQ4ZDM0NzliMTcwZTk4NjFhMjliZGIxYmE5YzU0M2ViMTc4NGY3MzE)
+- [Slack FloripaJS - #vue-js](http://slack.floripajs.org/)
+- [Slack Vue.js Brasil - #floripa](https://vuejs-brasil.herokuapp.com/)
 - [GitHub](https://github.com/VueFloripa)
-- [YouTube](https://www.youtube.com/channel/UCzQX1I0wiW64Fh7dVUIM-BA)
 
 ## Quem já apoiou o evento?
 

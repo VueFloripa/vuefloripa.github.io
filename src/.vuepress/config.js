@@ -23,6 +23,13 @@ module.exports = {
           { text: '1º VueFloripa', link: '/edicoes/1-vuefloripa' },
         ]
       },
+      { text: 'Formatos',
+        items: [
+          { text: 'Talk', link: '/formatos/talk' },
+          { text: '"Tu Vue?"', link: '/formatos/tu-vue' },
+          { text: 'Tainha Bowl', link: '/formatos/tainha-bowl' },
+        ]
+      },
       { text: 'Vue.js Summit 2018', link: '/vuejs-summit/' },
       { text: 'Sobre nós', link: '/sobre/' },
     ],
@@ -30,13 +37,24 @@ module.exports = {
       '/edicoes/': [
         {
           collapsable: false,
-          title: 'Edições passadas',
+          title: 'Edições anteriores',
           children: [
             '5-vuefloripa',
             '4-vuefloripa',
             '3-vuefloripa',
             '2-vuefloripa',
             '1-vuefloripa',
+          ],
+        }
+      ],
+      '/formatos/': [
+        {
+          collapsable: false,
+          title: 'Formatos',
+          children: [
+            'talk',
+            'tu-vue',
+            'tainha-bowl',
           ],
         }
       ]

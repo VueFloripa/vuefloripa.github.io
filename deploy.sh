@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Setup Travis git user
-git config --global user.email "travis@travis-ci.org"
-git config --global user.name "Travis CI"
+git config --global user.email "deploy@travis-ci.org"
+git config --global user.name "Travis Deployment Bot"
 
 # Go to `dist` folder
 cd ./src/.vuepress/dist/

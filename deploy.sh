@@ -10,7 +10,7 @@ cd ./src/.vuepress/dist/
 # Commit `dist` files
 git init
 git add -A
-git commit -m "Deploy $TRAVIS_COMMIT"
+git commit -m "Deploy $TRAVIS_COMMIT_MESSAGE"
 
 # Push to GitHub
 git push -f https://${GITHUB_TOKEN}@github.com/VueFloripa/vuefloripa.github.io.git master

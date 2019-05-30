@@ -13,4 +13,4 @@ git add -A
 git commit -m "Deploy $TRAVIS_COMMIT"
 
 # Push to GitHub
-git push -f https://${GITHUB_TOKEN}@github.com:vuefloripa/vuefloripa.github.io.git master
+git push -f https://${GITHUB_TOKEN}@github.com/vuefloripa/vuefloripa.github.io.git master

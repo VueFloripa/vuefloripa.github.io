@@ -16,12 +16,12 @@
     "vuefloripa",
     "meetup"
   ],
-  "author": "Vinicius Kiatkoski Neves <kneves.vinicius@gmail.com>",
+  "author": "Vinicius Kiatkoski Neves <viniciuskneves@icloud.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/VueFloripa/vuefloripa.github.io/issues"
   },
-  "homepage": "https://github.com/VueFloripa/vuefloripa.github.io#readme",
+  "homepage": "https://floripa.vue.community",
   "devDependencies": {
     "vuepress": "^0.14.11"
   }

@@ -1,11 +1,9 @@
 ---
 pageClass: proxima-edicao
 ---
-# [Próxima edição](https://www.meetup.com/vuefloripa/events/260940270/)
+# Próxima edição
 
-O sexto **VueFloripa** irá ocorrer no dia 25/05 a partir das 14:00h na [Valtech](https://goo.gl/maps/WU6BvFfJGqNdo2Lz6). O evento será dividido entre [talk](/formatos/talk.html), momento ["Tu Vue?"](/formatos/tu-vue.html) e [Tainha Bowl](/formatos/tainha-bowl.html), tudo com o objectido de deixar o encontro mais dinâmico.
-
-As talks ainda não estão definidas e podem ser submetidas aqui: https://github.com/VueFloripa/Meetup/issues/8
+O sétimo **VueFloripa** ainda não tem nada para acontecer! Se você quer sediar o evento entre em contato com a gente pelo Meetup!
 
 ## Comunidades
 

@@ -13,9 +13,10 @@ module.exports = {
     lastUpdated: 'Última atualização',
     nav: [
       { text: 'Próxima edição', link: '/edicoes/#proxima-edicao' },
-      { text: 'Última edição', link: '/edicoes/5-vuefloripa' },
+      { text: 'Última edição', link: '/edicoes/6-vuefloripa' },
       { text: 'Edições anteriores', 
         items: [
+          { text: '6º VueFloripa', link: '/edicoes/6-vuefloripa' },
           { text: '5º VueFloripa', link: '/edicoes/5-vuefloripa' },
           { text: '4º VueFloripa', link: '/edicoes/4-vuefloripa' },
           { text: '3º VueFloripa', link: '/edicoes/3-vuefloripa' },
@@ -39,6 +40,7 @@ module.exports = {
           collapsable: false,
           title: 'Edições anteriores',
           children: [
+            '6-vuefloripa',
             '5-vuefloripa',
             '4-vuefloripa',
             '3-vuefloripa',

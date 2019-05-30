@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - "lts/*"
+
+before_deploy:
+  - npm run build
+
+deploy:
+  provider: script
+  script: bash ./deploy.sh
+  on:
+    branch: development

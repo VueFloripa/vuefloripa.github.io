@@ -17,5 +17,17 @@ npm run dev
 npm run build
 ```
 
-### Deployment - Production
-So far you need to do it manually. We need to automate it with a script or CI pipeline in the future.
+## Release
+You can automatically release a new version using:
+```bash
+npm run release:major
+# or
+npm run release:minor
+# or
+npm run release:patch
+```
+
+After that you need to push to `development` to trigger a new deployment.
+
+## Deployment - Production
+Automatically triggered by Travis CI. It builds the app and pushes to master afterwards.

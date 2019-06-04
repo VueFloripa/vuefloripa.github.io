@@ -8,7 +8,7 @@ O sexto **VueFloripa** ocorreu no dia 25/05 a partir das 14h na [Valtech](https:
 
 ## Talks
 
-- Vue.js development in 2019 - Vuex, Vue Router and Typescript ([Bruce Cantarim](https://github.com/brucecantarim))
+- <a href="https://slides.com/brucecantarim/tdc2019" target="_blank">Vue.js development in 2019 - Vuex, Vue Router and Typescript</a> ([Bruce Cantarim](https://github.com/brucecantarim))
 
 - <a href="/talks/06_iury-krieger.pdf" target="_blank" type="application/pdf">Creating a flexible and highly extendable Vue web component based design system</a> ([Iury Krieger](https://github.com/iurykrieger))
 

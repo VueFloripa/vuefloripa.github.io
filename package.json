@@ -1,6 +1,6 @@
 {
   "name": "vuefloripa.github.io",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Vue.js Floripa website",
   "scripts": {
     "dev": "vuepress dev src",

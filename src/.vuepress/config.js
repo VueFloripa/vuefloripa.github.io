@@ -1,11 +1,18 @@
 // Other configs available at: https://vuepress.vuejs.org/config/
 module.exports = {
+  plugins: [
+    [
+      '@vuepress/google-analytics',
+      {
+        ga: 'UA-120216948-1',
+      },
+    ],
+  ],
   title: 'VueFloripa',
   description: 'Meetup na cidade de Florianópolis - SC que reúne a comunidade para discutir e apresentar ferramentas e ideias em relação a Vue.js',
   head: [
     ['link', { rel: 'icon', href: `/logo.png` }],
   ],
-  ga: 'UA-120216948-1',
   evergreen: true,
   themeConfig: {
     repo: 'vuefloripa/vuefloripa.github.io/tree/development/',

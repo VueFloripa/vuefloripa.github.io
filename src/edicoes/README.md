@@ -3,7 +3,8 @@ pageClass: proxima-edicao
 ---
 # Próxima edição
 
-O sétimo **VueFloripa** ainda não tem nada para acontecer! Se você quer sediar o evento entre em contato com a gente pelo Meetup!
+O sétimo [**VueFloripa**](https://www.meetup.com/vuefloripa/events/262881421/) vai acontecer na Involves! e vai ser demais!
+se voce ou sua empresa tem interesse em sediar eventos futuros, entre em contato com os organizadores pelo meetup.com!
 
 ## Comunidades
 

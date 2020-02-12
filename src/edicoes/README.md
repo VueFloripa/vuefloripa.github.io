@@ -3,8 +3,8 @@ pageClass: proxima-edicao
 ---
 # Próxima edição
 
-O sétimo [**VueFloripa**](https://www.meetup.com/vuefloripa/events/262881421/) vai acontecer na Involves! e vai ser demais!
-se voce ou sua empresa tem interesse em sediar eventos futuros, entre em contato com os organizadores pelo meetup.com!
+O nono [**VueFloripa**](https://www.meetup.com/pt-BR/vuefloripa/events/268421235/) vai acontecer na Valtech!
+Se você ou sua empresa tem interesse em sediar eventos futuros, entre em contato com os organizadores pelo meetup.com!
 
 ## Comunidades
 
@@ -46,6 +46,18 @@ se voce ou sua empresa tem interesse em sediar eventos futuros, entre em contato
 
   <a href='http://construtechventures.com.br/'>
     <img alt='Construtech Ventures' src='/apoiadores/construtechventures.png' style='background-color: #223c5e;'>
+  </a>
+
+  <a href='https://dotgroup.com.br/'>
+    <img alt='Dot Digital Group' src='/apoiadores/dot.png'>
+  </a>
+
+  <a href='https://involves.com/'>
+    <img alt='Involves' src='/apoiadores/involves.png'>
+  </a>
+
+  <a href='https://www.geekhunter.com.br/'>
+    <img alt='Geek Hunter' src='/apoiadores/geekhunter.png'>
   </a>
 </div>
 

@@ -26,7 +26,7 @@
   },
   "homepage": "https://floripa.vue.community",
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "1.7.0",
+    "@vuepress/plugin-google-analytics": "1.7.1",
     "vuepress": "1.7.1"
   }
 }
